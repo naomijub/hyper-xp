@@ -4,5 +4,5 @@ version = "0.1.0"
 authors = ["Julia Naomi <jnaomi@thoughtworks.com>"]
 
 [dependencies]
+futures = "*"
 hyper = "*"
-service-fn = {git = "https://github.com/tokio-rs/service-fn"}
